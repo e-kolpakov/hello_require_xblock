@@ -1,0 +1,13 @@
+*.egg-info
+dist
+*.pyc
+*~
+.coverage
+htmlcov
+htmlcov*
+*.log
+*.log.*
+.DS_Store
+
+tests.*.png
+node_modules

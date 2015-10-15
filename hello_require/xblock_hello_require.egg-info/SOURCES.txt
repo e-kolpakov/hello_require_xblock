@@ -1,0 +1,7 @@
+xblock_hello_require.egg-info/PKG-INFO
+xblock_hello_require.egg-info/SOURCES.txt
+xblock_hello_require.egg-info/dependency_links.txt
+xblock_hello_require.egg-info/entry_points.txt
+xblock_hello_require.egg-info/pbr.json
+xblock_hello_require.egg-info/requires.txt
+xblock_hello_require.egg-info/top_level.txt
